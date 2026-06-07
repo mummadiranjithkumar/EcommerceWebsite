@@ -1,0 +1,13 @@
+# React
+node_modules/
+dist/
+
+# Spring Boot
+target/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
